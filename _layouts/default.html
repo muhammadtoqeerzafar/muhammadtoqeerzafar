@@ -18,18 +18,7 @@
         
         {% if site.logo %}
         <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  border-radius: 50%;
-}
-</style>
-</head>
-<body>
-
-<h2>Rounded Images</h2>
-          <img src="{{site.logo | relative_url}}" alt="Logo" width="130" height="130" img {
-  border-radius: 50%;
-} />
+          <img src="{{site.logo | relative_url}}" class="rounded" alt="Logo" width="130" height="130"} />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
