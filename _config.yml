@@ -1,13 +1,6 @@
 title: Muhammad Toqeer Zafar # your name (or website title) here
 logo: "/images/photo.png?raw=true" # your photo (or logo) here
-description:
-  <p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/muhammadtoqeerzafar/">LinkedIn</a> |
-  
-  </p>
-  
-  <p align="justify"> # your text below (remove <br> elements if you don't need line breaks)
+description: > # your text below (remove <br> elements if you don't need line breaks)
   <b>Data Enthusiast</b>
   <br><br>
   I have recently completed my Masters in Physics from University of Siegen and an Entry level position in data analytics is what I have set my eyes on.
