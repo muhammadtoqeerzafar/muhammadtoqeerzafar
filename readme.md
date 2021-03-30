@@ -1,7 +1,8 @@
 # Data Analytics Portfolio
 Repository containing portfolio of data Analytics projects completed by me for academic, self learning, and hobby purposes. Presented mostly in the form of iPython Notebooks.
 
-For a more visually pleasant experience for browsing the portfolio, check out [my quick portfolio](muhammadtoqeerzafar.github.io)
+For a more visually pleasant experience for browsing the portfolio, check out <p><a href="muhammadtoqeerzafar.github.io/">my quick portfolio</a></p>
+
 
 
 _Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
