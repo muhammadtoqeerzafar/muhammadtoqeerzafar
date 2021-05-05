@@ -4,7 +4,7 @@
 
 ### Data Cleaning Projects 
 
-[Predicting Home Prices in Banglore](/sample_page)
+[Predicting Home Prices in Banglore](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/Data_Cleaning_Practice_Predicting_Home_Prices_in_Banglore.ipynb)(/sample_page)
 <img src="images/your first project pic here.jpg?raw=true"/>
 
 ---
