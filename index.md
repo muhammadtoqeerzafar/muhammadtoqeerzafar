@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Data Cleaning Projects 
 
-[Project 1 Title](/sample_page)
+[Predicting Home Prices in Banglore](/sample_page)
 <img src="images/your first project pic here.jpg?raw=true"/>
 
 ---
