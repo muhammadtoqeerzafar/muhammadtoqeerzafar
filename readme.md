@@ -12,12 +12,12 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 
 	
-- ### Natural Language Processing
+- ### Data Cleaning Projects
 
 
-	- [Cross language Information Retrieval](https://github.com/sajal2692/data-science-portfolio/blob/master/Cross%20Language%20Information%20Retrieval.ipynb): Cross language information retrieval system (CLIR) which, given a query in German, searches text documents written in English.
+	- [Predicting Home Prices in Banglore](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/Data_Cleaning_Practice_Predicting_Home_Prices_in_Banglore.ipynb): Preparation and cleaning of Data to build a linear regression model using banglore home prices dataset.
 
-	_Tools: NLTK, scikit_
+	_Tools: Numpy, Pandas, Matplotlib_
 
 - ### Data Analysis and Visualisation
 	- __Python__
