@@ -15,7 +15,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 - ### Data Cleaning Projects
 
 
-	- [Predicting Home Prices in Banglore](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/Data_Cleaning_Practice_Predicting_Home_Prices_in_Banglore.ipynb): Preparation and cleaning of Data to build a linear regression model using banglore home prices dataset.
+	- [Preprocessing data to predict Home Prices in Banglore](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/Data_Cleaning_Practice_Predicting_Home_Prices_in_Banglore.ipynb): Preparation and cleaning of Data to build a linear regression model using banglore home prices dataset.
 
 	_Tools: Numpy, Pandas, Matplotlib_
 
