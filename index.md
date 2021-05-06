@@ -17,14 +17,14 @@
 
 ---
 
-- ### Data Analysis and Visualisation
-	- __MS Excel__
+### Data Analysis and Visualisation
+- __MS Excel__
 		- [Scalable Walkability Analysis of Melbourne](https://github.com/sajal2692/Scalable-Walkability-Analysis-of-Melbourne): Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
 		- [Titanic Dataset - Exploratory Analysis](https://githu
-  - __MS PowerBI__
+- __MS PowerBI__
 		- [Scalable Walkability Analysis of Melbourne](https://github.com/sajal2692/Scalable-Walkability-Analysis-of-Melbourne): Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
 		- [Titanic Dataset - Exploratory Analysis](https://githu
-  - __Python__
+- __Python__
 		- [Scalable Walkability Analysis of Melbourne](https://github.com/sajal2692/Scalable-Walkability-Analysis-of-Melbourne): Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
 		- [Titanic Dataset - Exploratory Analysis](https://githu
 
