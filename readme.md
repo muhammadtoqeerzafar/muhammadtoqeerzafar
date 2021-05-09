@@ -18,7 +18,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	- [Preprocessing data to predict Home Prices in Banglore](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/Data_Cleaning_Practice_Predicting_Home_Prices_in_Banglore.ipynb): Preparation and cleaning of Data to build a linear regression model using banglore home prices dataset.
 
 	_Tools: Numpy, Pandas, Matplotlib_
-	- [COVID-19 Data exploration Using SQL](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/Data_Cleaning_Practice_Predicting_Home_Prices_in_Banglore.ipynb): Exploration of COVID-19 data to find out insights.
+	- [COVID-19 Data exploration Using SQL](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/COVID-19%20Data%20exploration%20using%20SQL.sql): 
+Exploration of COVID-19 data to find out insights.
 	Skills: Common SQL Syntax, Queries, Constraints, Aggregate functions, Multiple tables(joins/union)_
 
 - ### Data Analysis and Visualisation
