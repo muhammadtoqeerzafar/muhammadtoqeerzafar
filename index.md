@@ -5,7 +5,7 @@
 ### Data Exploration Projects 
 
 [Preprocessing data to Predict Home Prices in Banglore](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/Data_Cleaning_Practice_Predicting_Home_Prices_in_Banglore.ipynb)
-<img src="images/Data preprocessing with python.png?raw=true"/>
+<img src="images/data_cleansing.jpg?raw=true"/>
 
 ---
 [COVID-19 Data Exploration using SQL](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/COVID-19%20Data%20exploration%20using%20SQL.sql)
