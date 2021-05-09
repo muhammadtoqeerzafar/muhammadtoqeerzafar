@@ -8,8 +8,7 @@
 <img src="images/Data preprocessing with python.png?raw=true"/>
 
 ---
-[COVID-19 Data Exploration using SQL]
-(https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/COVID-19%20Data%20exploration%20using%20SQL.sql)
+[COVID-19 Data Exploration using SQL](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/COVID-19%20Data%20exploration%20using%20SQL.sql)
 <img src="images/SQL_image.jpg?raw=true"/>
 
 ---
