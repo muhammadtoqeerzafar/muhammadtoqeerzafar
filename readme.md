@@ -20,7 +20,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	_Tools: Numpy, Pandas, Matplotlib_
 	- [COVID-19 Data exploration Using SQL](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/COVID-19%20Data%20exploration%20using%20SQL.sql): 
 Exploration of COVID-19 data to find out insights.
-	Skills: Common SQL Syntax, Queries, Constraints, Aggregate functions, Multiple tables(joins/union)_
+	_Skills: Common SQL Syntax, Queries, Constraints, Aggregate functions, Multiple tables(joins/union)_
 
 - ### Data Analysis and Visualisation
 	- __Python__
