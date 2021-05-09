@@ -9,7 +9,7 @@
 
 ---
 [COVID-19 Data Exploration using SQL](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/COVID-19%20Data%20exploration%20using%20SQL.sql)
-<img src="images/SQL_image.jpg?raw=true"/>
+<img src="images/SQL_overview.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
