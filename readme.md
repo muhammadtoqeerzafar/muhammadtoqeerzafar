@@ -14,6 +14,9 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	
 - ### Data Exploration Projects
 
+	- [Scraping and Analyzing Datascience jobs from Glassgoor](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/Scraping_and_analyzing_glassdoor_data.ipynb): Scraping the data from Glassdoor and cleaning and analyzing it
+
+	_Tools: Python, Selenium, Matplotlib, Seaborn_
 
 	- [Preprocessing data to predict Home Prices in Banglore](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/Data_Cleaning_Practice_Predicting_Home_Prices_in_Banglore.ipynb): Preparation and cleaning of Data to build a linear regression model using banglore home prices dataset.
 
