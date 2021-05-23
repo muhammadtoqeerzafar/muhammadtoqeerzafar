@@ -14,7 +14,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	
 - ### Data Exploration Projects
 
-	- [Scraping and Analyzing Datascience jobs from Glassgoor](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/Scraping_and_analyzing_glassdoor_data.ipynb): Scraping the data from Glassdoor and cleaning and analyzing it
+	- [Scraping and Analyzing Datascience jobs from Glassdoor](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/Scraping_and_analyzing_glassdoor_data.ipynb): Scraping the data from Glassdoor and cleaning and analyzing it
 
 	_Tools: Python, Selenium, Matplotlib, Seaborn_
 
