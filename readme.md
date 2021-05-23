@@ -24,7 +24,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	- [COVID-19 Data exploration Using SQL](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/COVID-19%20Data%20exploration%20using%20SQL.sql): 
 Exploration of COVID-19 data to find out insights.
 
-	_Key Skills: [Summary](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/SQL_Skills.md)_
+	_Key Skills: [Summary of SQL skills](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/SQL_Skills.md)_
 
 - ### Data Analysis and Visualisation
 	- __Python__
