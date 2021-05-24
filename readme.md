@@ -28,7 +28,9 @@ Exploration of COVID-19 data to find out insights.
 
 - ### Data Analysis and Visualisation
 	- __MS PowerBI__
-	- [in progress](): <!-- 	Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
+	- [in progress]():
+	
+	<!-- 	Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
 		
 	
 
