@@ -12,8 +12,26 @@
 <img src="images/SQL_overview.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Scraping and Analyzing Datascience jobs from Glassdoor](https://nbviewer.jupyter.org/github/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/Scraping_and_analyzing_glassdoor_data.ipynb)
 <img src="images/your third project pic here?raw=true"/>
+
+<div class="row">
+  <div class="column">
+    <img src="glassdoor.gif">
+    <img src="Avg_Salary.jpg">
+    <img src="keywords.png">    
+  </div>
+  <div class="column">
+    <img src="glassdoor.gif">
+    <img src="Avg_Salary.jpg">
+    <img src="keywords.png">  
+  </div>
+  <div class="column">
+    <img src="glassdoor.gif">
+    <img src="Avg_Salary.jpg">
+    <img src="keywords.png">  
+  </div>
+</div>
 
 ---
 
