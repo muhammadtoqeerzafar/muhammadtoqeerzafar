@@ -13,14 +13,9 @@
 
 ---
 [Scraping and Analyzing Datascience jobs from Glassdoor](https://nbviewer.jupyter.org/github/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/Scraping_and_analyzing_glassdoor_data.ipynb)
+<img src="images/scraped_data.gif?raw=true"/>
 
-<div class="row">
-  <div class="column">
-    <img src="glassdoor.gif"  style="width:100%">
-    <img src="Avg_Salary.jpg"  style="width:100%">
-    <img src="keywords.png"  style="width:100%">    
-  </div>
-</div>
+
 ---
 
 ### Data Analysis and Visualisation
