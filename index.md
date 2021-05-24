@@ -16,12 +16,11 @@
 
 <div class="row">
   <div class="column">
-    <img src="glassdoor.gif" align="left" style="width:100%">
-    <img src="Avg_Salary.jpg" align="center" style="width:100%">
-    <img src="keywords.png" align="right" style="width:100%">    
+    <img src="glassdoor.gif"  style="width:100%">
+    <img src="Avg_Salary.jpg"  style="width:100%">
+    <img src="keywords.png"  style="width:100%">    
   </div>
 </div>
-<br>
 ---
 
 ### Data Analysis and Visualisation
