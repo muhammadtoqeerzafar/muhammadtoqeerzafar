@@ -16,9 +16,9 @@
 
 <div class="row">
   <div class="column">
-    <img src="glassdoor.gif">
-    <img src="Avg_Salary.jpg">
-    <img src="keywords.png">    
+    <img src="glassdoor.gif" alt="Snow" style="width:100%">
+    <img src="Avg_Salary.jpg" alt="Snow" style="width:100%">
+    <img src="keywords.png" alt="Snow" style="width:100%">    
   </div>
 </div>
 
