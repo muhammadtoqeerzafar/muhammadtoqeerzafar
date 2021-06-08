@@ -24,9 +24,14 @@ Key Skills: [Summary of SQL skills](https://github.com/muhammadtoqeerzafar/muham
 ---
 
 ### Data Analysis and Visualisation
-- __MS Excel__  
-	- [In Progress](): 
-	
+
 	
 - __MS PowerBI__
-	- [in progress]():
+	- [Superstore's Performance ](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/MS%20PowerBi/Sales_Insights_SuperStore.pdf): Developing report and dashboard to track the performance of superstore in each state of U.S over the period of last 04 years.
+<img src="MS PowerBi/Superstores_performance.png?raw=true"/>
+
+- [Tracking Sales and revenue](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/MS%20PowerBi/Sales%20and%20revenue%20trends.pdf): Developing a live dashboard for Sales director to track sales, profit and revenue trend of each branch of a Computer Hardware Store. 
+<img src="MS PowerBi/Revenue_trend.png?raw=true"/>
+	- [Students Performance Overview](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/MS%20PowerBi/Students_performance_overview.pdf): Creating a report to present to academic Head to figure out the reason of failiure of students.
+<img src="MS PowerBi/students_performance.png?raw=true"/>
+	
