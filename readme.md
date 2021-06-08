@@ -30,7 +30,7 @@ Exploration of COVID-19 data to find out insights.
 	 __MS PowerBI__
 	- [Superstore's Performance ](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/MS%20PowerBi/Sales_Insights_SuperStore.pdf): Developing report and dashboard to track the performance of super store in each state of U.S over the period of last 04 years.  
 
-	- [Tracking Sales and revenue](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/MS%20PowerBi/Sales%20and%20revenue%20trends.pdf: Developing a live dashboard for Sales director to track sales, profit and revenue trend of each branch of a Computer Hardware Store. 
+	- [Tracking Sales and revenue](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/MS%20PowerBi/Sales%20and%20revenue%20trends.pdf): Developing a live dashboard for Sales director to track sales, profit and revenue trend of each branch of a Computer Hardware Store. 
 
 	
 
