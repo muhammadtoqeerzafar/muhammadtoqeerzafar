@@ -27,7 +27,7 @@ Exploration of COVID-19 data to find out insights.
 	_Key Skills: [Summary of SQL skills](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/SQL_Skills.md)_
 
 - ### Data Analysis and Visualisation
-	- __MS PowerBI__
+	 __MS PowerBI__
 	- [Sales report of Super Store](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/MS%20PowerBi/Sales_Insights_SuperStore.pdf):
 	
 	<!-- 	Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
