@@ -28,7 +28,7 @@ Exploration of COVID-19 data to find out insights.
 
 - ### Data Analysis and Visualisation
 	- __MS PowerBI__
-	- [in progress]():
+	- [Sales report of Super Store](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/MS%20PowerBi/Sales_Insights_SuperStore.pdf):
 	
 	<!-- 	Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
 		
