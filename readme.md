@@ -32,7 +32,7 @@ Exploration of COVID-19 data to find out insights.
 
 	- [Tracking Sales and revenue](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/MS%20PowerBi/Sales%20and%20revenue%20trends.pdf): Developing a live dashboard for Sales director to track sales, profit and revenue trend of each branch of a Computer Hardware Store. 
 
-	
+	- [Students Performance Overview](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/MS%20PowerBi/Students_performance_overview.pdf): Creating a report to present to academic Head to figure out the reason of failiure of students.
 
 
 	_Key Skills: Transform shape and model data, Connecting PowerBi to MySQL, Data preparation in Power Query Editor, transformation tools, Front End Development including report and dashboard designing, Geospatial Data, Shape Maps and DAX_
