@@ -27,7 +27,7 @@ Key Skills: [Summary of SQL skills](https://github.com/muhammadtoqeerzafar/muham
 
 	
 - __MS PowerBI__
-	- [Superstore's Performance ](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/MS%20PowerBi/Sales_Insights_SuperStore.pdf): Developing report and dashboard to track the performance of superstore in each state of U.S over the period of last 04 years.
+- [Superstore's Performance ](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/MS%20PowerBi/Sales_Insights_SuperStore.pdf): Developing report and dashboard to track the performance of superstore in each state of U.S over the period of last 04 years.
 <img src="MS PowerBi/Superstores_performance.png?raw=true"/>
 
 - [Tracking Sales and revenue](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/MS%20PowerBi/Sales%20and%20revenue%20trends.pdf): Developing a live dashboard for Sales director to track sales, profit and revenue trend of each branch of a Computer Hardware Store. 
