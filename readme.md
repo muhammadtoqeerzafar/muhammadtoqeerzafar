@@ -28,8 +28,14 @@ Exploration of COVID-19 data to find out insights.
 
 - ### Data Analysis and Visualisation
 	 __MS PowerBI__
-	- [Sales report of Super Store](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/MS%20PowerBi/Sales_Insights_SuperStore.pdf):
+	- [Superstore's Performance ](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/MS%20PowerBi/Sales_Insights_SuperStore.pdf): Developing report and dashboard to track the performance of super store in each state of U.S over the period of last 04 years.  
+
+	- [Tracking Sales and revenue](https://github.com/muhammadtoqeerzafar/muhammadtoqeerzafar.github.io/blob/main/MS%20PowerBi/Sales%20and%20revenue%20trends.pdf: Developing a live dashboard for Sales director to track sales, profit and revenue trend of each branch of a Computer Hardware Store. 
+
 	
+
+
+	_Key Skills: Transform shape and model data, Connecting PowerBi to MySQL, Data preparation in Power Query Editor, transformation tools, Front End Development including report and dashboard designing, Geospatial Data, Shape Maps and DAX_
 	<!-- 	Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
 		
 	
